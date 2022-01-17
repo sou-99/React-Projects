@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "KL Rahul",
+      "username": "Rahul",
+      "email": "rahul@gmail.com",
+      "phone": "9818827722",
+      "id": 1
+    },
+    {
+      "name": "Virat Kohli",
+      "username": "virat",
+      "email": "virat@gmail.com",
+      "phone": "9818827722",
+      "id": 2
+    }
+  ]
+}
